@@ -1,5 +1,4 @@
 # TestSteck
-小计(2018-5-6)
 public static void main(String[] args){
   int days=46;
   int week=days/7;
